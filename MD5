@@ -1,0 +1,16 @@
+3e988dd3eb42d49fa03dc2f7ca27d325 *DESCRIPTION
+8c2c9d75367a508643b70015637d3c97 *NAMESPACE
+17ba70f9b67c0ae005f8fc7c2eed7e20 *NEWS.md
+d86243683d903257e6b22e6a312bd55d *R/imports.R
+793aeb9f430cd500fc756a292f71aded *R/methods.R
+a2e568ca52ff2d96e0f1eb8451de5989 *R/xtbhst-package.R
+ddf686bdfc624d827ee815cb9f25ef15 *R/xtbhst.R
+73bed33803453d90e915b92183941d13 *README.md
+75d0a007992c60d09f764686e9397c0f *build/partial.rdb
+18a240ddbd81f05dadeeef33f9c0413c *man/plot.xtbhst.Rd
+2aec0544a50a96e8d03b7636c1583975 *man/print.xtbhst.Rd
+675b0a67b28b891ef53bf717190bf8c8 *man/summary.xtbhst.Rd
+24afdcd11b10a533d158868208dd5ee8 *man/xtbhst-package.Rd
+1fe0da7d17fe8db42a2b39fd5ac1c86b *man/xtbhst.Rd
+3742f4b570e61d676bfd4afc792cad44 *tests/testthat.R
+ec43571426496f419c161519a06d2826 *tests/testthat/test-xtbhst.R
