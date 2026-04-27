@@ -116,4 +116,4 @@ GPL (>= 3)
 
 ## Author
 
-R port based on the Stata implementation `xtbhst`, which was modified from `xthst` by Tore Bersvendsen and Jan Ditzen.
+R port based on the Stata implementation `xtbhst`, which was adapted from the Stata `xthst` command.
